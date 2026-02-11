@@ -1,3 +1,2 @@
 # ForestFireDetectionYolov5
-Tugas Akhir Studi Independen MSIB. AI 4 Jobs ORBIT
-Kelompok 3 Godel
+Deteksi kebabakran hutan dengan menggunakan YOLOv5 dan mengolah dataset dengan Roboflow
